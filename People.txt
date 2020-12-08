@@ -1,0 +1,12 @@
+Person: Mike, age: 23, sex: Male
+Person: Elisa, age: 21, sex: Female
+Person: Dan, age: 24, sex: Male
+Person: Ann, age: 31, sex: Female
+Person: Louis, age: 30, sex: Male
+Person: Elly, age: 29, sex: Female
+Person: John, age: 19, sex: Male
+Person: Jessica, age: 13, sex: Female
+Person: Michael, age: 40, sex: Male
+Person: Natalya, age: 25, sex: Female
+Person: Nicolas, age: 36, sex: Male
+Person: Elisabet, age: 28, sex: Female
